@@ -1,4 +1,4 @@
-# API RESTful de Eventos Acadêmicos (APS 3)
+# API RESTful de Eventos Acadêmicos (APS 3) (AVISO: o Projeto final consta no repositorio APS 4 Backend)
 
 Evolução da API da APS 2. Agora os dados são **persistidos em SQLite** com **SQLAlchemy ORM** e a API disponibiliza **relatórios consolidados** sobre eventos, categorias e cursos.
 
